@@ -11,8 +11,5 @@ The purpose of this project was to understand
 # File Description
 The notebook here has all of the workings used to answer the 3 questions above.
 
-# Results
-The key findings of the code can be found at the post available [HERE](https://medium.com/@mochen862/how-does-developer-pay-vary-by-company-type-experience-and-working-model-46649357b78d).
-
 # Licensing, Authors, Acknowledgements
 Credit to Stack Overflow for the data. Click [HERE](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017) for the Kaggle link where youb can find the licensing and other information on the data.
